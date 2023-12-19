@@ -1,0 +1,88 @@
+.alumnisignin-photo {
+    background:#ffffff;
+    padding: 80px 0;
+  }
+  
+  .alumnisignin-photo .img-holder {
+    display:table-cell;
+    width: 40%;
+    /* background:url('https://vnrvjiet.ac.in/assets/images/CSE%20-%20DS%20&%20CYS%20(1).png');
+     */
+    background-image: url('C:/Users/jogee/Desktop/CRM/frontend/src/components/alumnisignin/alumnizoom.png');
+    /* border-radius: 50%; */
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
+  
+  .alumnisignin-photo .form-container {
+    display:table;
+    max-width:900px;
+    width:100%;
+    margin:0 auto;
+    box-shadow:1px 1px 5px rgba(0,0,0,0.1);
+  }
+  
+  .alumnisignin-photo form {
+    display:table-cell;
+    background-color:#263544;
+    padding:40px 60px;
+    color:#2f3539;
+  }
+  
+  @media (max-width:991px) {
+    .alumnisignin-photo .img-holder {
+      display: none;
+    }
+  }
+  
+  .alumnisignin-photo form h2 {
+    font-size:24px;
+    line-height:1.5;
+    margin-bottom:30px;
+  }
+  
+  .alumnisignin-photo form .form-control {
+    background:#f8fbff;
+    border:none;
+    border-bottom:1px solid #fff0f0;
+    border-radius:5px;
+    box-shadow:none;
+    outline:none;
+    color:inherit;
+    text-indent:6px;
+    height:40px;
+    display: block;
+    margin: auto;
+    margin: 5px;
+  }
+  
+  
+  .alumnisignin-photo form .btn-primary {
+    background:#187a02;
+    border:none;
+    border-radius:4px;
+    padding:11px;
+    box-shadow:none;
+    margin-top:35px;
+    text-shadow:none;
+    outline:none !important;
+  }
+  
+  .alumnisignin-photo form .btn-primary:hover, .register-photo form .btn-primary:active {
+    background:#187a02;
+  }
+  
+  .alumnisignin-photo form .btn-primary:active {
+    transform:translateY(1px);
+  }
+  
+  .alumnisignin-photo form .forgot {
+    display:block;
+    padding-top: 1rem;
+    text-align:center;
+    font-size:12px;
+    color:#2d2f31;
+    opacity:0.9;
+    text-decoration:none;
+  }
+  

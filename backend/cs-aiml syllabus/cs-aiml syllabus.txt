@@ -1,0 +1,64 @@
+19BS1MT01 Calculus for Engineers 3 1 0 4 4 1
+19BS1PH02 Engineering Physics 3 0 0 3 3 1
+19ES1CS01 Programming through C 3 0 0 3 3 1
+19ES1EE01 Basics of Electrical Energy for Engineers 3 0 0 3 3 1
+19BS2PH02 Engineering Physics Laboratory 0 0 2 2 1 1
+19ES2CS01 Programming through C Laboratory 0 0 2 2 1 1
+19ES2EE01 Basic Electrical Engineering Laboratory 0 0 2 2 1 1
+19ES3ME02 Engineering Drawing 0 0 4 4 2 1
+19PW4CS01 Design Sensitization 0 0 2 2 1 1
+19BS1MT04 Linear Algebra and Advanced Calculus 3 0 0 3 3 2
+19BS1MT05 Statistical Methods for Data Analysis 3 1 0 4 4 2
+19BS1CH01 Engineering Chemistry 3 0 0 3 3 2
+19HS1EN01 English 3 0 0 3 3 2
+19ES1IT01 Data Structures 3 0 0 3 3 2
+19BS2CH01 Engineering Chemistry Laboratory 0 0 2 2 1 2
+19HS2EN01 English Language Communication Skills Laboratory 0 0 2 2 1 2
+19ES2IT01 Data Structures Laboratory 0 0 2 2 1 2
+19ES2ME01 Workshop Practices 1 0 2 3 2 2
+19PC1CS01 Digital Logic Design 2 1 0 3 3 3
+19PC1CS02 Mathematical Foundations for Computer Science 2 1 0 3 3 3
+19PC1IT02 Java Programming 2 1 0 3 3 3
+19PC1IT03 Computer Organization 3 0 0 3 3 3
+19PC1CS06 Software Engineering 3 0 0 3 3 3
+19PC2IT03 Java Programming Laboratory 0 0 3 3 1.5 3
+19PC2CS02 Software Engineering Laboratory 0 0 3 3 1.5 3
+19PC2IT02 Python Programming Laboratory 0 0 2 2 1 3
+19MN6HS02 Environmental Science 2 0 0 2 0 3
+19BS1MT11 Probability, Statistics and Queuing Theory 3 0 0 3 3 4
+19HS1MG02 Engineering Economics and Accountancy 3 0 0 3 3 4
+19PC1CS05 Formal Language and Automata Theory 2 1 0 3 3 4
+19PC1CS31 Operating Systems using Linux 3 0 0 3 3 4
+19PC1CS03 Design and Analysis of Algorithms 3 0 0 3 3 4
+19PC1CS04 Database Management systems 3 0 0 3 3 4
+19PC2CS31 Operating Systems Using Linux Laboratory 0 0 3 3 1.5 4
+19PC2CS01 Database Management systems Laboratory 0 0 3 3 1.5 4
+19PC1CS08 Compiler Design 2 1 0 3 3 5
+19PC1CS32 Data Engineering 3 0 0 3 3 5
+19PC1CS09 Artificial Intelligence 3 0 0 3 3 5
+PE-I Professional Elective - I 3 0 0 3 3 5
+19PE1CS31 Advanced Algorithms - - - - - 5
+19PE1CS06 Scripting Languages - - - - - 5
+19PE1IT04 Software Testing Methodologies - - - - - 5
+19PE1CS32 Cryptography and Information Security - - - - - 5
+19PE1CS05 Computer Graphics - - - - - 5
+OE-I Open Elective - I 3 0 0 3 3 5
+19PC2CS32 Compiler Design and Artificial Intelligence Laboratory 0 0 2 2 1 5
+19PC2CS33 Data Engineering Laboratory 0 0 2 2 1 5
+19HS2EN05 Advanced English Communication Skills Laboratory 0 0 2 2 1 5
+19PW4CS02 Internship* 0 0 2 2 1 5
+19PW4CS03 Design Thinking 0 0 4 4 2 5
+19PC1CS33 Image Processing Techniques 3 0 0 3 3 6
+19PC1CS34 Machine Learning and Neural Networks 3 0 0 3 3 6
+19PC1CS07 Computer Networks 2 1 0 3 3 6
+19PC1CS35 Foundations of Natural Language Processing 3 0 0 3 3 6
+PE-II Professional Elective - II 3 0 0 3 3 6
+19PE1CS14 Information Retrieval Systems - - - - - 6
+19PE1CS36 Web Programming - - - - - 6
+19PE1CS33 Software Process and Project Management - - - - - 6
+19PE1CS34 Ethical Hacking and Computer Forensics - - - - - 6
+19PE1CS35 AI and Humanity - - - - - 6
+OE-II Open Elective - II 3 0 0 3 3 6
+19PC2CS34 Image Processing and Natural Language Processing Laboratory 0 0 3 3 1.5 6
+19PC2CS35 Machine Learning and Neural Networks Laboratory 0 0 3 3 1.5 6
+19MN6HS03 Gender Sensitization 2 0 0 2 0 6

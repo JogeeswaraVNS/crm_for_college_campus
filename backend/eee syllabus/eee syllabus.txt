@@ -1,0 +1,97 @@
+19BS1MT01 Calculus for Engineers 3 1 0 4 4 1
+19BS1CH01 Engineering Chemistry 3 0 0 3 3 1
+19HS1EN01 English 3 0 0 3 3 1
+19ES1CS01 Programming through C 3 0 0 3 3 1
+19ES1EE04 Circuit Theory 3 0 0 3 3 1
+19BS2CH01 Engineering Chemistry Laboratory 0 0 2 2 1 1
+19HS2EN01 English Language Communication Skills Laboratory 0 0 2 2 1 1
+19ES2CS01 Programming through C Laboratory 0 0 2 2 1 1
+19ES2ME01 Workshop Practices 1 0 2 3 2 1
+19BS1MT04 Linear Algebra and Advanced Calculus 3 0 0 3 3 2
+19BS1PH02 Engineering Physics 3 0 0 3 3 2
+19ES1CS02 Data Structures through C 3 0 0 3 3 2
+19ES1EE05 Network Analysis 3 1 0 4 4 2
+19BS2PH02 Engineering Physics Laboratory 0 0 2 2 1 2
+19ES2CS02 Data Structures through C Laboratory 0 0 2 2 1 2
+19ES2EE05 Network Analysis Laboratory 0 0 2 2 1 2
+19ES3ME02 Engineering Drawing 0 0 4 4 2 2
+19PW4EE01 Design Sensitization 0 0 2 2 1 2
+A19BS1MT09 Complex Analysis and Transforms 3 0 0 3 3 3
+A19PC1EE01 Electromagnetic Fields 3 1 0 4 4 3
+A19PC1EE02 Electrical Machines - I 3 0 0 3 3 3
+A19PC1EC02 Electronic Devices and Circuits 3 0 0 3 3 3
+A19PC1EC03 Digital System Design 3 0 0 3 3 3
+A19PC2EE01 Electrical Machines-I Laboratory 0 0 3 3 1.5 3
+A19PC2EC01 Electronic Devices and Circuits Laboratory 0 0 3 3 1.5 3
+A19PC2EC15 Digital Logic Design Laboratory 0 0 2 2 1 3
+A19PC1EE03 Electrical Machines - II 3 0 0 3 3 4
+A19PC1EE04 Power Systems-I 3 1 0 4 4 4
+A19PC1EC06 Analog Circuits 3 0 0 3 3 4
+A19PC1ME18 Fluid Mechanics and Hydraulic Machines 3 0 0 3 3 4
+A19HS1MG02 Engineering Economics and Accountancy 3 0 0 3 3 4
+A19PC2EE02 Electrical Machines-II Laboratory 0 0 3 3 1.5 4
+19PC2EC05 Analog Circuits Laboratory 0 0 3 3 1.5 4
+A19PC2IT02 Python Programming Laboratory 0 0 2 2 1 4
+A19MN6HS03 Gender Sensitization 0 0 2 2 0 4
+19PC1EE07 Power Electronics 3 0 0 3 3 5
+19PC1EE06 Power Systems – II 3 0 0 3 3 5
+19PC1EE05 Control Systems 3 0 0 3 3 5
+19HS1MG04 Principles of Management and Organizational Behaviour 3 0 0 3 3 5
+PE-I Professional Elective - I 3 0 0 3 3 5
+19PE1EE01 Utilization of Electrical Energy - - - - - 5
+19PE1EE02 Renewable Energy Systems - - - - - 5
+19PE1EE03 Special Machines and Control - - - - - 5
+19PC1IT05 Operating Systems - - - - - 5
+19PC1EC04 Signals and Systems - - - - - 5
+OE-I Open Elective - I 3 0 0 3 3 5
+19PC2EE04 Power Electronics Laboratory 0 0 2 2 1 5
+19PC2EE03 Control Systems Laboratory 0 0 2 2 1 5
+19PW4EE02 Internship 0 0 2 2 1 5
+19MN6HS02 Environmental Sciences 2 0 0 2 0 5
+19PC1EE08 Electrical Measurements and Instrumentation 3 0 0 3 3 6
+19PC1EC10 Microprocessors and Microcontrollers 3 0 0 3 3 6
+19PC1EE09 Electrical Drives 3 0 0 3 3 6
+PE-II Professional Elective - II 3 0 0 3 3 6
+19PE1EE04 Power System Operation and Control - - - - - 6
+19PE1EE05 Storage Technologies - - - - - 6
+19PE1EE06 Digital Control Systems - - - - - 6
+19PC1IT03 Computer Organization - - - - - 6
+19PE1EC02 MOS Circuits - - - - - 6
+OE-II Open Elective - II 3 0 0 3 3 6
+19PC2EC07 Microprocessors and Microcontrollers Laboratory 0 0 2 2 1.5 6
+19PC2EE05 Electrical Measurements and Instrumentation Laboratory 0 0 2 2 1.5 6
+19HS2EN05 Advanced English Communication Skills Laboratory 0 0 2 2 1 6
+19PW4EE03 Design Thinking 0 0 4 4 2 6
+19PC1EC30 Principles of Digital Signal Processing 3 0 0 3 3 7
+19PC1EE10 Switchgear and Protection 3 0 0 3 3 7
+PE-III Professional Elective - III 3 0 0 3 3 7
+19PE1EE07 High Voltage Engineering - - - - - 7
+19PE1EE08 Switched Mode Power Conversion - - - - - 7
+19PE1EE09 Electric Vehicle - - - - - 7
+19PE1EC20 Sensors and Actuators - - - - - 7
+19PE1EC06 CPLD and FPGA Architecture - - - - - 7
+PE-IV Professional Elective - IV 3 0 0 3 3 7
+19PE1EE10 Electrical Distribution Systems and Automation (EDSA) - - - - - 7
+19PE1EC05 Internet of Things - - - - - 7
+19PE1EE11 Integration and Control of Renewable Energy Technologies - - - - - 7
+19PE1EE12 Artificial Neural Networks and Fuzzy Logic - - - - - 7
+19PE1EC12 Embedded Systems - - - - - 7
+OE-III Open Elective - III 3 0 0 3 3 7
+19PC2EC30 Principles of Digital Signal Processing Laboratory 0 0 2 2 1 7
+19PC2EE06 Power Systems Laboratory 0 0 2 2 1 7
+19PW4EE04 Mini-Project* 0 0 4 4 2 7
+19PW4EE05 Major Project Phase - I 0 0 8 8 4 7
+PE-V Professional Elective - V 3 0 0 3 3 8
+19PE1EE13 HVDC Transmission - - - - - 8
+19PE1IT04 Operating Systems - - - - - 8
+19PE1EE14 Advanced Power Electronics - - - - - 8
+19PE1AE17 Fuel Cell Technology - - - - - 8
+19PE1EC04 Digital Image Processing - - - - - 8
+PE-VI Professional Elective - VI 3 0 0 3 3 8
+19PE1EE15 Power Quality and FACTS - - - - - 8
+19PE1EE16 Smart Grid - - - - - 8
+19PE1EE17 Reliability Engineering Applications to Power Systems - - - - - 8
+19PE1EE18 Energy Auditing and Conservation - - - - - 8
+19PE1EC23 VLSI Technology and Design - - - - - 8
+OE-IV Open Elective - IV 3 0 0 3 3 8
+19PW4EE06 Major Project Phase - II 0 0 12 12 6 8

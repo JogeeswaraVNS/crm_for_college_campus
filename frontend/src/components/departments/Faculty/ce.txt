@@ -1,0 +1,34 @@
+1	Dr. A. Mallika Professor & HOD 11-08-2004	Ph.D Regular	mallika_a@vnrvjiet.in	51150406-150532
+2	Dr. BDV Chandra Mohan Rao	Professor	 	14-09-2005	Ph.D	Regular	chandramohanrao_bdv@vnrvjiet.in	7160-150407-204742
+3	Dr. K. Ramujee	Professor & COE	 	05-11-1999	Ph.D	Regular	ramujee_k@vnrvjiet.in	0171-150407-213332
+4	Dr. B. Narendra Kumar	Professor	 	18-12-2003	Ph.D	Regular	narendrakumar_b@vnrvjiet.in	5111-150408-175736
+5	Dr. CH. Nageshwar Rao	Professor	 	01-03-2017	Ph.D	Regular	nageshwarrao_ch@vnrvjiet.in	0565-170207-220306
+6	Dr. A. Ramesh	Professor	 	03-12-2007	Ph.D	Regular	ramesh_a@vnrvjiet.in	6744-150412-204559
+7	Dr. K Ravi Kumar	Associate Professor	 	06-07-2015	Ph.D	Regular	ravikumar_k@vnrvjiet.in	1263-160303-180642
+8	Dr. Kadali Srinivas	Associate Professor	 	26-05-2018	Ph.D	Regular	srinivas_kadali@vnrvjiet.in	7749-151219-181423
+9	Dr. C. Naveen Kumar	Associate Professor	 	03-02-2018	Ph.D	Regular	naveenkumar_c@vnrvjiet.in	9806-180207-174847
+10	Dr. K.Suresh	Sr. Assistant Professor	 	01-11-2012	Ph.D	Regular	suresh_k@vnrvjiet.in	0745-150409-122315
+11	PVS GOPI Raghunadh	Assistant Professor	 	04-11-2013	M.Tech	Regular	gopiraghunadh_p@vnrvjiet.in	3693-150409-202048
+12	Mr. T. Naga Teja	Assistant Professor	 	18-12-2014	M.Tech	Regular	teja_tn@vnrvjiet.in	49150404-114318
+13	Mrs. P.Arti Sudam	Assistant Professor	 	09-05-2015	M.Tech	Regular	artisudam_p@vnrvjiet.in	2838-150509-142354
+14	Dr. R. Durga Prasad	Assistant Professor	 	20-07-2015	Ph.D	Regular	durgaprasad_r@vnrvjiet.in	6376-151218-120643
+15	Mr. K. Veerendra Gopi	Assistant Professor	 	11-08-2015	M.Tech	Regular	veerendragopi_k@vnrvjiet.in	3795-151221-130914
+16	Mrs. S. Sangeetha	Assistant Professor	 	14-09-2015	M.Tech	Regular	sangeetha_s@vnrvjiet.in	9717-151222-145610
+17	Mrs. V. Ramya Krishna	Assistant Professor	 	06-06-2016	M.Tech	Regular	ramyakrishna_v@vnrvjiet.in	6542-150408-135509
+18	Mrs. A. Jyothirmai	Assistant Professor	 	24-06-2016	M.Tech	Regular	jyothirmai_a@vnrvjiet.in	9761-161222-111702
+19	Mr. JYV Shiva Bhushan	Assistant Professor	 	02-01-2017	M.Tech	Regular	shivabhushan__jyv@vnrvjiet.in	6268-170102-151059
+20	Dr. G. Lalitha	Assistant Professor	 	01-03-2017	Ph.D	Regular	lalitha_g@vnrvjiet.com	3715-0404-121416
+21	Mrs. R. Harika	Assistant Professor	 	01-03-2017	M.Tech	Regular	harika_r@vnrvjiet.in	0233-170131-020324
+22	Dr. S. Rakesh	Assistant Professor	 	02-02-2018	Ph.D	Regular	rakesh_s@vnrvjiet.in	5356-180131-005247
+23	Dr. Harinder Devavath	Assistant Professor	 	10-07-2019	Ph.D	Regular	harinder_d@vnrvjiet.in	5091-190507-160535
+24	Dr. B.Murali Krishna	Assistant Professor	 	03-03-2020	Ph.D	Regular	muralikrishna_b@vnrvjiet.in	3965-200306-180920
+25	Dr. K.Sai Sahitya	Assistant Professor	 	01-09-2021	Ph.D	Regular	saisahitya_k@vnrvjiet.in	8274-210702-155700
+26	Mr. G.Sambasiva Rao	Assistant Professor	 	21-04-2022	M.Tech	Regular	sambasivarao_g@vnrvjiet.in	0401-220427-101804
+27	Mrs. J. Soujanya	Assistant Professor	 	01-08-2022	M.Tech	Regular	soujanya_b@vnrvjiet.in	9798-220707-143231
+28	Mr. K. Ravindra Babu	Assistant Professor	 	20-06-2022	M.Tech	Regular	ravindrababu_k@vnrvjiet.in	9971-220707-134232
+29	Mr. P. Rama Rao	Assistant Professor	 	14-08-2022	M.Tech	Regular	ramarao_p@vnrvjiet.in	4149-180416-121931
+30	Mrs. S. Vedhasri	Assistant Professor	 	08-08-2022	M.Tech	Regular	vedasri_s@vnrvjiet.in	3140-220708-163847
+31	Dr. G. Dinesh	Assistant Professor	 	13-02-2023	Ph.D	Regular	dinesh_g@vnrvjiet.in	1309-230214-161325
+32	Dr. Seenu P Z	Assistant Professor	 	22-02-2023	Ph.D	Regular	seenu_pz@vnrvjiet.in	0087-230302-102747
+33	Mrs. D. Praseeda	Assistant Professor	 	02-03-2023	M.Tech	Regular	praseeda_d@vnrvjiet.in	8817-230404-111059
+34	Dr. R. Gokulan	Assistant Professor	 	15-05-2023	Ph.D	Regular	gokulan_r@vnrvjiet.in	7874-230520-162247

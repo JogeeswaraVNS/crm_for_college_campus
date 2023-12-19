@@ -1,0 +1,30 @@
+1	Dr. R. Manjula Sri	Professor & Head	 	08-12-1998	Ph.D	Regular	manjulasree_r@vnrvjiet.in	58150405-142724
+2	Dr. M.Sreedhar	Professor	 	01-12-2016	Ph.D.	Regular	sreedhar_m@vnrvjiet.in	4585-161201-160209
+3	Dr.K.Vidyasagar	Professor	 	01-11-2017	Ph.D.	Regular	vidyasagar_k@vnrvjiet.in	30150402-161632
+4	Dr. S. Pranavanand	Associate Professor	 	21-04-2006	Ph.D	Regular	pranavanand_s@vnrvjiet.in	3122-150408-230445
+5	Dr. K. Sudha Rani	Associate Professor	 	04-09-2006	Ph.D	Regular	sudharani_k@vnrvjiet.in	6826-150408-004725
+6	Dr.Harikrishna Mulam	Associate Professor	 	14-09-2001	Ph.D	Regular	harikrishna_m@vnrvjiet.in	4271-150409-095841
+7	Mrs. Anita Kulkarni	Associate Professor	 	10-08-2002	M.Tech	Regular	anitha_kulkarni@vnrvjiet.in	4644-150410-103102
+8	Dr. V.Nageshwar	Associate Professor	 	04-09-2006	Ph.D	Regular	nageshwar_v@vnrvjiet.in	5292-150408-095707
+9	Dr.C.Kiran	Associate Professor	 	07-12-2012	Ph.D	Regular	kiran_c@vnrvjiet.in	93150402-131530
+10	Mr. C. V. Rambabu	Sr. Assistant Professor	 	03-07-2002	M.Tech	Regular	rambabu_cv@vnrvjiet.in	3579-150409-100539
+11	Ms. D.V. Shobhana Priscilla	Sr. Assistant Professor	 	05-11-2007	M.E	Regular	shobana_dv@vnrvjiet.in	94150403-231203
+12	Dr.K.Vijay Chandra	Assistant Professor	 	24-03-2011	M.Tech	Regular	vijaychandra_k@vnrvjiet.in	3905-150408-060408
+13	Mr. A AdithyaKashyap	Assistant Professor	 	27-06-2011	M.Tech	Regular	adithyakashyap_a@vnrvjiet.in	4360-150408-213505
+14	Mr. S Nagarjuna chary	Assistant Professor	 	03-12-2011	M.E	Regular	nagarjunachary_s@@vnrvjiet.in	9451-150409-160530
+15	Ms. VandanaSamanthula	Assistant Professor	 	24-05-2012	M.Tech	Regular	vandana_s@vnrvjiet.in	36150404-150808
+16	Mr. G.Vamsi Krishna	Assistant Professor	 	10-12-2012	M.Tech	Regular	vamsikrishna_g@vnrvjiet.in	4477-150408-173042
+17	Ms. Bharati. Sagi	Assistant Professor	 	19-12-2012	M.Tech	Regular	bharatisagi_s@vnrvjiet.in	9855-150408-131416
+18	Mr. Naregalkar Akshay	Assistant Professor	 	05-08-2013	M.Tech	Regular	akshay_n@vnrvjiet.in	29150402-125950
+19	Mr.P.V.Gopi Kumar	Assistant Professor	 	28-11-2014	M.Tech	Regular	gopikumar_pv@vnrvjiet.in	7687-150410-102714
+20	Ms.J. Jyothirmai	Assistant Professor	 	29-04-2015	M.Tech	Regular	jyothirmai_j@vnrvjiet.in	3290-150429-155205
+21	Ms. D. Srilaxmi	Assistant Professor	 	14-03-2016	M.Tech	Regular	srilaxmi_d@vnrvjiet.in	8927-160314-171553
+22	Ms.P.Sampurna Lakshmi	Assistant Professor	 	17-06-2016	M.Tech	Regular	sampurnalakshmi_p@vnrvjiet.in	5746-150418-143340
+23	Ms.D.Swetha	Assistant Professor	 	17-06-2016	M.Tech	Regular	swetha_d@vnrvjiet.in	3413-161222-122648
+24	Mr.S.Bhargav	Assistant Professor	 	23-06-2016	M.Tech	Regular	bhargav_s@vnrvjiet.in	65150403-103830
+25	Mr.B.Goutam	Assistant Professor	 	01-04-2017	M.Tech	Regular	goutam_b@vnrvjiet.in	6072-150408-120918
+26	Dr.B.Rajashekara Reddy	Assistant Professor	 	02-03-2018	Ph.D	Regular	rajasekharareddy_b@vnrvjiet.in	5905-180203-132313
+27	Dr.S.Senthilkumar	Assistant Professor	 	07-03-2018	Ph.D	Regular	senthilkumar_s@vnrvjiet.in	5308-180202-115849
+28	Mr.Ch.Venkanna	Assistant Professor	 	01-07-2022	M.Tech	Regular	venkanna_ch@vnrvjiet.in	9774-220705-145843
+29	Mrs.R.Suneetha	Assistant Professor	 	03-05-2021	M.Tech	Regular	suneetha_eie@vnrvjiet.in	1674-150413-135022
+30	Mr.P.Naresh Kumar	Assistant Professor	 	12-04-2023	M.Tech	Regular	nareshkumar_eie@vnrvjiet.in	5756-230412-122436

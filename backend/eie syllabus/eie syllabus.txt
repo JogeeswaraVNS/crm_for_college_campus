@@ -1,0 +1,96 @@
+19BS1MT01 Calculus for Engineers 3 1 0 4 4 1
+19BS1CH01 Engineering Chemistry 3 0 0 3 3 1
+19HS1EN01 English 3 0 0 3 3 1
+19ES1CS01 Programming through C 3 0 0 3 3 1
+19ES1EE04 Circuit Theory 3 0 0 3 3 1
+19BS2CH01 Engineering Chemistry Laboratory 0 0 2 2 1 1
+19HS2EN01 English Language Communication Skills Laboratory 0 0 2 2 1 1
+19ES2CS01 Programming through C Laboratory 0 0 2 2 1 1
+19ES2ME01 Workshop Practices 1 0 2 3 2 1
+19BS1MT04 Linear Algebra and Advanced Calculus 3 0 0 3 3 2
+19BS1PH02 Engineering Physics 3 0 0 3 3 2
+19ES1CS02 Data Structures through C 3 0 0 3 3 2
+19ES1EE06 Basic Electrical Engineering 3 1 0 4 4 2
+19BS2PH02 Engineering Physics Laboratory 0 0 2 2 1 2
+19ES2CS02 Data Structures through C Laboratory 0 0 2 2 1 2
+19ES2EE04 Electrical Engineering Laboratory 0 0 2 2 1 2
+19ES3ME02 Engineering Drawing 0 0 4 4 2 2
+19PW4EI01 Design Sensitization 0 0 2 2 1 2
+A19BS1MT08 Complex Analysis and Special Functions 3 0 0 3 3 3
+A19PC1EI01 Electronics Circuits – I 3 1 0 4 4 3
+A19PC1EI02 Sensors and Signal Conditioning 3 0 0 3 3 3
+A19PC1EI03 Electronic Measurements 3 0 0 3 3 3
+A19PC1EC04 Signals and Systems 3 0 0 3 3 3
+A19PC2EI01 Electronics Circuits – I Laboratory 0 0 3 3 1.5 3
+A19PC2EI02 Sensors and Measurements Laboratory 0 0 3 3 1.5 3
+A19PC2EC02 Basic Simulation Laboratory 0 0 2 2 1 3
+A19MN6HS03 Gender Sensitization 0 0 2 2 0 3
+A19HS1MG02 Engineering Economics and Accountancy 3 0 0 3 3 4
+A19PC1EI04 Electronic Circuits – II 3 1 0 4 4 4
+A19PC1EI05 Linear IC Applications 3 0 0 3 3 4
+A19PC1EE05 Control Systems 3 0 0 3 3 4
+A19PC1EC03 Digital System Design 3 0 0 3 3 4
+A19PC2EI03 Electronics Circuits – II Laboratory 0 0 3 3 1.5 4
+A19PC2EI04 IC Application Laboratory 0 0 3 3 1.5 4
+A19PC2IT02 Python Programming Laboratory 0 0 2 2 1 4
+19PC1EI06 Industrial Process Control Instrumentation 3 1 0 4 4 5
+19PC1EI07 Bio-Medical Instrumentation 3 0 0 3 3 5
+19PC1EC10 Microprocessors and Microcontrollers 3 0 0 3 3 5
+PE-I Professional Elective - I 3 0 0 3 3 5
+19PE1EI01 Fiber Optics and Laser Instrumentation - - - - - 5
+19PE1EI02 Pollution Control in Process Industries - - - - - 5
+19PC1IT03 Computer Organization - - - - - 5
+19PC1EC20 Probability and Random Processes - - - - - 5
+19PE1EI03 Micro Electromechanical Systems(Mems) - - - - - 5
+OE-I Open Elective - I 3 0 0 3 3 5
+19PC2EI05 Process Control Instrumentation Laboratory 0 0 3 3 1.5 5
+19PC2EC07 Microprocessors and Microcontrollers Laboratory 0 0 3 3 1.5 5
+19PW4EI02 Internship 0 0 2 2 1 5
+19MN6HS02 Environmental Sciences 2 0 0 2 0 5
+19PC1EC09 Digital Signal Processing 3 1 0 4 4 6
+19PC1EI08 Process Control Automation 2 1 0 3 3 6
+19PC1EI09 Virtual Instrumentation 2 0 0 2 2 6
+19PE1EC05 Internet of Things 3 0 0 3 3 6
+PE-II Professional Elective - II 3 0 0 3 3 6
+19PE1EI04 Robotics and Applications - - - - - 6
+19PE1EI05 Power Plant Instrumentation - - - - - 6
+19PC1EC12 Computer Networks and System Approach - - - - - 6
+19PE1EC22 Principles of Communications - - - - - 6
+19PE1EI06 Bio Medical Equipment - - - - - 6
+OE-II Open Elective - II 3 0 0 3 3 6
+19HS2EN05 Advanced English Communication Skills Laboratory 0 0 2 2 1 6
+19PC2EI06 Process Control Automation Laboratory 0 0 2 2 1 6
+19PW4EI03 Design Thinking 0 0 4 4 2 6
+19PC1EI11 Analytical Instrumentation 3 0 0 3 3 7
+19HS1MG04 Principles of Management and Organizational Behavior 3 0 0 3 3 7
+PE-III Professional Elective - III 3 0 0 3 3 7
+19PE1EI21 Neural Networks and Fuzzy Logic Systems - - - - - 7
+19PE1EI07 Instrumentation for Agricultural and Food Processing Industries - - - - - 7
+19PE1EC12 Embedded Systems - - - - - 7
+19PE1EC23 VLSI Technology and Design - - - - - 7
+19PE1EI08 Biomedical Signal Processing - - - - - 7
+PE-IV Professional Elective - IV 3 0 0 3 3 7
+19PC1EE07 Power Electronics - - - - - 7
+19PE1EI09 Instrumentation for Pharmaceutical Industries - - - - - 7
+19PE1EC19 DSP Processors and Architectures - - - - - 7
+19PE1EC08 Speech and Audio Processing - - - - - 7
+19PE1EI10 Tele Medicine - - - - - 7
+OE-III Open Elective - III 3 0 0 3 3 7
+19PC2EI07 Analytical Instrumentation Laboratory 0 0 2 2 1 7
+19PC2EI08 IoT Laboratory - Interfacing and Applications 0 0 2 2 1 7
+19PW4EI04 Mini-Project* 0 0 4 4 2 7
+19PW4EI05 Major Project Phase - I 0 0 8 8 4 7
+PE-V Professional Elective - V 3 0 0 3 3 8
+19PE1EI11 Digital Control Systems - - - - - 8
+19PE1EI12 Instrumentation and Control for Petrochemical Industries - - - - - 8
+19PE1EI22 Principles and Applications of Nano Technology - - - - - 8
+19PE1EC06 CPLD and FPGA Architecture - - - - - 8
+19PE1EI13 Biomedical Nano Technology - - - - - 8
+PE-VI Professional Elective - VI 3 0 0 3 3 8
+19PE1EI14 Automotive Instrumentation and Control - - - - - 8
+19PE1EI15 Industrial Electronics - - - - - 8
+19PE1EC18 Wireless Sensor Networks and Protocols - - - - - 8
+19PE1EC04 Digital Image Processing - - - - - 8
+19PE1EI16 Medical Imaging and Processing - - - - - 8
+OE-IV Open Elective - IV 3 0 0 3 3 8
+19PW4EI06 Major Project Phase - II 0 0 12 12 6 8

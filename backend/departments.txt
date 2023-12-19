@@ -1,0 +1,65 @@
+1
+2001
+Civil Engineering
+CE
+120
+2
+1995
+Electrical and Electronics Engineering
+EEE
+120
+3
+1995
+Mechanical Engineering
+ME
+120
+4
+1995
+Electronics and Communication Engineering
+ECE
+240
+5
+2019
+Computer Science and Business Systems
+CSBS
+60
+6
+2020
+CSE (Artificial Intelligence and Machine Learning)
+CS-AIML
+180
+7
+2020
+CSE (Data Science)
+CS-DS
+120
+8
+1999
+Electronics and Instrumentation Engineering
+EIE
+120
+9
+1997
+Information Technology
+IT
+180
+10
+2010
+Automobile Engineering
+AE
+60
+11
+1995
+Computer Science and Engineering
+CSE
+240
+12
+2020
+CSE (Cyber Security)
+CS-CYS
+60
+13
+2020
+CSE (Internet of Things)
+CS-IoT
+60

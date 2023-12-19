@@ -1,0 +1,96 @@
+19BS1MT01 Calculus for Engineers 3 1 0 4 4 1
+19BS1CH01 Engineering Chemistry 3 0 0 3 3 1
+19HS1EN01 English 3 0 0 3 3 1
+19ES1CS01 Programming through C 3 0 0 3 3 1
+19ES1EE04 Circuit Theory 3 0 0 3 3 1
+19BS2CH01 Engineering Chemistry Laboratory 0 0 2 2 1 1
+19HS2EN01 English Language Communication Skills Laboratory 0 0 2 2 1 1
+19ES2CS01 Programming through C Laboratory 0 0 2 2 1 1
+19ES2ME01 Workshop Practices 1 0 2 3 2 1
+19BS1MT04 Linear Algebra and Advanced Calculus 3 0 0 3 3 2
+19BS1PH02 Engineering Physics 3 0 0 3 3 2
+19ES1IT01 Data Structures 3 0 0 3 3 2
+19ES1EE06 Basic Electrical Engineering 3 1 0 4 4 2
+19BS2PH02 Engineering Physics Laboratory 0 0 2 2 1 2
+19ES2IT01 Data Structures Laboratory 0 0 2 2 1 2
+19ES2EE04 Electrical Engineering Laboratory 0 0 2 2 1 2
+19ES3ME02 Engineering Drawing 0 0 4 4 2 2
+19PW4EC01 Design Sensitization 0 0 2 2 1 2
+A19BS1MT08 Complex Analysis and Special Functions 3 0 0 3 3 3
+A19PC1EC01 Probability Theory and Stochastic Processes 3 1 0 4 4 3
+A19PC1EC02 Electronic Devices and Circuits 3 0 0 3 3 3
+A19PC1EC03 Digital System Design 3 0 0 3 3 3
+A19PC1EC04 Signals and Systems 3 0 0 3 3 3
+A19PC2EC01 Electronic Devices and Circuits Laboratory 0 0 3 3 1.5 3
+A19PC2EC02 Basic Simulation Laboratory 0 0 2 2 1 3
+A19PC2EC03 Digital System Design Laboratory 0 0 3 3 1.5 3
+A19MN6HS03 Gender Sensitization 0 0 2 2 0 3
+A19PC1EE05 Control Systems 3 0 0 3 3 4
+A19PC1EC05 Analog and Digital Communications 3 0 0 3 3 4
+A19PC1EC06 Analog Circuits 3 0 0 3 3 4
+A19PC1IT03 Computer Organisation 3 0 0 3 3 4
+A19PC1EC07 EM Waves and Transmission Lines 3 1 0 4 4 4
+A19PC2EC04 Analog and Digital Communication Laboratory 0 0 3 3 1.5 4
+A19PC2EC05 Analog Circuits Laboratory 0 0 3 3 1.5 4
+A19PC2IT02 Python Programming Laboratory 0 0 2 2 1 4
+19PC1EC08 Antennas and Wave Propagation 3 0 0 3 3 5
+19PC1EC09 Digital Signal Processing 3 1 0 4 4 5
+19PC1EC10 Microprocessors and Microcontrollers 3 0 0 3 3 5
+PE-I Professional Elective - I 3 0 0 3 3 5
+19PE1EC01 Information theory and coding - - - - - 5
+19PC1EI07 Bio-Medical Instrumentation - - - - - 5
+19PE1EC20 Sensors and Actuators - - - - - 5
+19PE1MT01 Essential Mathematics for Machine Learning - - - - - 5
+19PE1EC02 MOS Circuits - - - - - 5
+OE-I Open Elective - I 3 0 0 3 3 5
+19PC2EC06 Digital Signal Processing Laboratory 0 0 3 3 1.5 5
+19PC2EC07 Microprocessors and Microcontrollers Laboratory 0 0 3 3 1.5 5
+19HS2EN05 Advanced English Communication Skills Laboratory 0 0 3 3 1 5
+19PW4EC02 Internship 0 0 2 2 1 5
+19MN6HS02 Environmental Sciences 2 0 0 2 0 5
+19PC1EC11 VLSI Design 3 1 0 4 4 6
+19PC1EC12 Computer Networks and Systems Approach 3 0 0 3 3 6
+19HS1MG02 Engineering Economics and Accountancy 3 0 0 3 3 6
+PE-II Professional Elective - II 3 0 0 3 3 6
+19PE1EC03 Mobile Communication and Protocols - - - - - 6
+19PE1EC04 Digital Image Processing - - - - - 6
+19PE1EC05 Internet of Things - - - - - 6
+19PE1CS10 Neural Networks and Deep Learning - - - - - 6
+19PE1EC06 CPLD and FPGA Architecture - - - - - 6
+OE-II Open Elective - II 3 0 0 3 3 6
+19PC2EC08 VLSI Design Laboratory 0 0 3 3 1.5 6
+19PC2EC09 Computer Networks Laboratory 0 0 3 3 1.5 6
+19PW4EC03 Design thinking 0 0 4 4 2 6
+19HS1MG04 Principles of Management and organizational Behaviour 3 0 0 3 3 7
+19PC1EC13 Microwave Engineering 3 0 0 3 3 7
+PE-III Professional Elective - III 3 0 0 3 3 7
+19PE1EC07 Fiber Optic Communication - - - - - 7
+19PE1EC08 Speech and Audio Processing - - - - - 7
+19PC1IT04 Operating Systems - - - - - 7
+19PE1EC21 Introduction to Machine Learning - - - - - 7
+19PE1EC09 ASIC Design - - - - - 7
+PE-IV Professional Elective - IV 3 0 0 3 3 7
+19PE1EC10 Satellite Communication - - - - - 7
+19PE1EC11 Software Defined Radio - - - - - 7
+19PE1EC12 Embedded Systems - - - - - 7
+19PE1CS21 Data Analytical Computing - - - - - 7
+19PE1EC13 Verification and Scripting Languages for VLSI Design - - - - - 7
+OE-III Open Elective - III 3 0 0 3 3 7
+19PC2EC10 Signal Processing and Communication Applications Laboratory 0 0 2 2 1 7
+19PC2EC11 Microwave Engineering Laboratory 0 0 2 2 1 7
+19PW4EC04 Mini-Project* 0 0 4 4 2 7
+19PW4EC05 Major Project Phase - I 0 0 8 8 4 7
+PE-V Professional Elective - V 3 0 0 3 3 8
+19PE1EC14 Advanced Communications - - - - - 8
+19PE1EI08 Biomedical Signal Processing - - - - - 8
+19PE1CS01 Mobile Computing - - - - - 8
+19PE1IT05 Cloud Computing - - - - - 8
+19PE1EC15 RF IC Design - - - - - 8
+PE-VI Professional Elective - VI 3 0 0 3 3 8
+19PE1EC16 Radar Systems - - - - - 8
+19PE1EC17 Adaptive Signal Processing - - - - - 8
+19PE1EC18 Wireless Sensor Networks and protocols - - - - - 8
+19PE1CS17 Distributed Trust and Block chain Technologies - - - - - 8
+19PE1EC19 DSP Processors and Architectures - - - - - 8
+OE-IV Open Elective – IV 3 0 0 3 3 8
+19PW4EC06 Major Project Phase - II 0 0 12 12 6 8

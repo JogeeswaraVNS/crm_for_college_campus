@@ -1,0 +1,747 @@
+'http://127.0.0.1:5000/get/results',methods=['GET'] = SEMResults.query.all()
+
+'http://127.0.0.1:5000/get/results/<department>/',methods=['GET'] = SEMResults.query.filter_by(department=department).all()
+
+'http://127.0.0.1:5000/get/results/<department>/<sem>',methods=['GET'] = SEMResults.query.filter_by(department=department).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_me',methods=['GET'] = Results_ME.query.all()
+
+'http://127.0.0.1:5000/get/results_me/<rollno>/',methods=['GET'] = Results_ME.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_me/<rollno>/<sem>',methods=['GET'] = Results_ME.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_eie',methods=['GET'] = Results_EIE.query.all()
+
+'http://127.0.0.1:5000/get/results_eie/<rollno>/',methods=['GET'] = Results_EIE.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_eie/<rollno>/<sem>',methods=['GET'] = Results_EIE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_eee',methods=['GET'] = Results_EEE.query.all()
+
+'http://127.0.0.1:5000/get/results_eee/<rollno>/',methods=['GET'] = Results_EEE.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_eee/<rollno>/<sem>',methods=['GET'] = Results_EEE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_ece',methods=['GET'] = Results_ECE.query.all()
+
+'http://127.0.0.1:5000/get/results_ece/<rollno>/',methods=['GET'] = Results_ECE.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_ece/<rollno>/<sem>',methods=['GET'] = Results_ECE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_cse',methods=['GET'] = Results_CSE.query.all()
+
+'http://127.0.0.1:5000/get/results_cse/<rollno>/',methods=['GET'] = Results_CSE.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_cse/<rollno>/<sem>',methods=['GET'] = Results_CSE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_csbs',methods=['GET'] = Results_CSBS.query.all()
+
+'http://127.0.0.1:5000/get/results_csbs/<rollno>/',methods=['GET'] = Results_CSBS.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_csbs/<rollno>/<sem>',methods=['GET'] = Results_CSBS.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_cs-iot',methods=['GET'] = Results_CS_IoT.query.all()
+
+'http://127.0.0.1:5000/get/results_cs-iot/<rollno>/',methods=['GET'] = Results_CS_IoT.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_cs-iot/<rollno>/<sem>',methods=['GET'] = Results_CS_IoT.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_cs-ds',methods=['GET'] = Results_CS_DS.query.all()
+
+'http://127.0.0.1:5000/get/results_cs-ds/<rollno>/',methods=['GET'] = Results_CS_DS.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_cs-ds/<rollno>/<sem>',methods=['GET'] = Results_CS_DS.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_cs-cys',methods=['GET'] = Results_CS_CYS.query.all()
+
+'http://127.0.0.1:5000/get/results_cs-cys/<rollno>/',methods=['GET'] = Results_CS_CYS.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_cs-cys/<rollno>/<sem>',methods=['GET'] = Results_CS_CYS.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_cs-aiml',methods=['GET'] = Results_CS_AIML.query.all()
+
+'http://127.0.0.1:5000/get/results_cs-aiml/<rollno>/',methods=['GET'] = Results_CS_AIML.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_cs-aiml/<rollno>/<sem>',methods=['GET'] = Results_CS_AIML.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_ce',methods=['GET'] = Results_CE.query.all()  
+
+'http://127.0.0.1:5000/get/results_ce/<rollno>/',methods=['GET'] = Results_CE.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_ce/<rollno>/<sem>',methods=['GET'] = Results_CE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_ae',methods=['GET'] = Results_AE.query.all()
+
+'http://127.0.0.1:5000/get/results_ae/<rollno>/',methods=['GET'] = Results_AE.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_ae/<rollno>/<sem>',methods=['GET'] = Results_AE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+
+'http://127.0.0.1:5000/get/results_it',methods=['GET'] = Results_IT.query.all()
+
+'http://127.0.0.1:5000/get/results_it/<rollno>/',methods=['GET'] = Results_IT.query.filter_by(rollno=rollno).all()
+
+'http://127.0.0.1:5000/get/results_it/<rollno>/<sem>',methods=['GET']Results_IT.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=results_schema.dump(l)
+        return jsonify(r)
+
+
+
+@app.route('/get/mid_it',methods=['GET'])    
+def mid_it():
+    with app.app_context():
+        l=MID_IT.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_it/<rollno>/',methods=['GET'])    
+def mid_it_rollno(rollno):
+    with app.app_context():
+        l=MID_IT.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_it/<rollno>/<sem>',methods=['GET'])    
+def mid_it_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_IT.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_ce',methods=['GET'])    
+def mid_ce():
+    with app.app_context():
+        l=MID_CE.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_ce/<rollno>/',methods=['GET'])    
+def mid_ce_rollno(rollno):
+    with app.app_context():
+        l=MID_CE.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_ce/<rollno>/<sem>',methods=['GET'])    
+def mid_ce_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_CE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+
+    
+
+@app.route('/get/mid_ae',methods=['GET'])    
+def mid_ae():
+    with app.app_context():
+        l=MID_AE.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_ae/<rollno>/',methods=['GET'])    
+def mid_ae_rollno(rollno):
+    with app.app_context():
+        l=MID_AE.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_ae/<rollno>/<sem>',methods=['GET'])    
+def mid_ae_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_AE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+
+    
+
+@app.route('/get/mid_cs-aiml',methods=['GET'])    
+def mid_cs_aiml():
+    with app.app_context():
+        l=MID_CS_AIML.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cs-aiml/<rollno>/',methods=['GET'])    
+def mid_cs_aiml_rollno(rollno):
+    with app.app_context():
+        l=MID_CS_AIML.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cs-aiml/<rollno>/<sem>',methods=['GET'])    
+def mid_cs_aiml_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_CS_AIML.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+
+    
+
+@app.route('/get/mid_cs-cys',methods=['GET'])    
+def mid_cs_cys():
+    with app.app_context():
+        l=MID_CS_CYS.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cs-cys/<rollno>/',methods=['GET'])    
+def mid_cs_cys_rollno(rollno):
+    with app.app_context():
+        l=MID_CS_CYS.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cs-cys/<rollno>/<sem>',methods=['GET'])    
+def mid_cs_cys_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_CS_CYS.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+    
+
+@app.route('/get/mid_cs-ds',methods=['GET'])    
+def mid_cs_ds():
+    with app.app_context():
+        l=MID_CS_DS.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cs-ds/<rollno>/',methods=['GET'])    
+def mid_cs_ds_rollno(rollno):
+    with app.app_context():
+        l=MID_CS_DS.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cs-ds/<rollno>/<sem>',methods=['GET'])    
+def mid_cs_ds_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_CS_DS.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+    
+
+@app.route('/get/mid_cs-iot',methods=['GET'])    
+def mid_cs_iot():
+    with app.app_context():
+        l=MID_CS_IoT.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cs-iot/<rollno>/',methods=['GET'])    
+def mid_cs_iot_rollno(rollno):
+    with app.app_context():
+        l=MID_CS_IoT.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cs-iot/<rollno>/<sem>',methods=['GET'])    
+def mid_cs_iot_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_CS_IoT.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+    
+
+@app.route('/get/mid_csbs',methods=['GET'])    
+def mid_csbs():
+    with app.app_context():
+        l=MID_CSBS.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_csbs/<rollno>/',methods=['GET'])    
+def mid_csbs_rollno(rollno):
+    with app.app_context():
+        l=MID_CSBS.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_csbs/<rollno>/<sem>',methods=['GET'])    
+def mid_csbs_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_CSBS.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+    
+
+@app.route('/get/mid_cse',methods=['GET'])    
+def mid_cse():
+    with app.app_context():
+        l=MID_CSE.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cse/<rollno>/',methods=['GET'])    
+def mid_cse_rollno(rollno):
+    with app.app_context():
+        l=MID_CSE.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_cse/<rollno>/<sem>',methods=['GET'])    
+def mid_cse_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_CSE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+    
+
+@app.route('/get/mid_ece',methods=['GET'])    
+def mid_ece():
+    with app.app_context():
+        l=MID_ECE.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_ece/<rollno>/',methods=['GET'])    
+def mid_ece_rollno(rollno):
+    with app.app_context():
+        l=MID_ECE.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_ece/<rollno>/<sem>',methods=['GET'])    
+def mid_ece_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_ECE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+    
+
+@app.route('/get/mid_eee',methods=['GET'])    
+def mid_eee():
+    with app.app_context():
+        l=MID_EEE.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_eee/<rollno>/',methods=['GET'])    
+def mid_eee_rollno(rollno):
+    with app.app_context():
+        l=MID_EEE.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_eee/<rollno>/<sem>',methods=['GET'])    
+def mid_eee_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_EEE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+    
+
+@app.route('/get/mid_eie',methods=['GET'])    
+def mid_eie():
+    with app.app_context():
+        l=MID_EIE.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_eie/<rollno>/',methods=['GET'])    
+def mid_eie_rollno(rollno):
+    with app.app_context():
+        l=MID_EIE.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_eie/<rollno>/<sem>',methods=['GET'])    
+def mid_eie_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_EIE.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+    
+
+@app.route('/get/mid_me',methods=['GET'])    
+def mid_me():
+    with app.app_context():
+        l=MID_ME.query.all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_me/<rollno>/',methods=['GET'])    
+def mid_me_rollno(rollno):
+    with app.app_context():
+        l=MID_ME.query.filter_by(rollno=rollno).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid_me/<rollno>/<sem>',methods=['GET'])    
+def mid_me_rollno_sem(rollno,sem):
+    with app.app_context():
+        l=MID_ME.query.filter_by(rollno=rollno).filter_by(semister=sem).all()
+        r=mid_schema.dump(l)
+        return jsonify(r)
+
+
+
+@app.route('/get/students',methods=['GET'])    
+def students():
+    with app.app_context():
+        l=Students.query.all()
+        r=students_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/students/<department>/',methods=['GET'])    
+def department_students(department):
+    with app.app_context():
+        d=BtechDepartments.query.filter_by(course_code=department).all() 
+        for i in d:
+            k=i.name_of_the_course
+        l=Students.query.filter_by(department=k)
+        r=students_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid',methods=['GET'])    
+def mid_subjects():
+    with app.app_context():
+        l=MIDSubjects.query.all()
+        r=mid_subjects_schema.dump(l)
+        return jsonify(r)
+
+
+@app.route('/get/mid/<department>/',methods=['GET'])    
+def mid_subjects_department(department):
+    with app.app_context():
+        l=MIDSubjects.query.filter_by(department=department)
+        r=mid_subjects_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/mid/<department>/<sem>/',methods=['GET'])    
+def mid_subjects_department_sem(department,sem):
+    with app.app_context():
+        l=MIDSubjects.query.filter_by(department=department).filter_by(semister=sem).all()
+        r=mid_subjects_schema.dump(l)
+        return jsonify(r) 
+
+
+
+@app.route('/get/departments',methods=['GET'])    
+def departments():
+    with app.app_context():
+        l=BtechDepartments.query.order_by(BtechDepartments.sno).all()
+        r=btech_departments_schema.dump(l)
+        return jsonify(r)
+    
+
+@app.route('/get/loh',methods=['GET'])    
+def loh():
+    with app.app_context():
+        l=LOH.query.all()
+        r=loh_schema.dump(l)
+        return jsonify(r)
+
+
+
+@app.route('/get/IT',methods=['GET'])    
+def it_subjects():
+    with app.app_context():
+        s=IT_Subjects.query.order_by(IT_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+
+@app.route('/get/IT/<sem>/',methods=['GET'])
+def it_sem_subjects(sem):
+    with app.app_context():
+        s=IT_Subjects.query.filter_by(semister=sem).order_by(IT_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/CE',methods=['GET'])    
+def ce_subjects():
+    with app.app_context():
+        s=CE_Subjects.query.order_by(CE_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/CE/<sem>/',methods=['GET'])
+def ce_sem_subjects(sem):
+    with app.app_context():
+        s=CE_Subjects.query.filter_by(semister=sem).order_by(CE_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/EEE',methods=['GET'])    
+def eee_subjects():
+    with app.app_context():
+        s=EEE_Subjects.query.order_by(EEE_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/EEE/<sem>/',methods=['GET'])
+def eee_sem_subjects(sem):
+    with app.app_context():
+        s=EEE_Subjects.query.filter_by(semister=sem).order_by(EEE_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/ME',methods=['GET'])    
+def me_subjects():
+    with app.app_context():
+        s=ME_Subjects.query.order_by(ME_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/ME/<sem>/',methods=['GET'])
+def me_sem_subjects(sem):
+    with app.app_context():
+        s=ME_Subjects.query.filter_by(semister=sem).order_by(ME_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/ECE',methods=['GET'])    
+def ece_subjects():
+    with app.app_context():
+        s=ECE_Subjects.query.order_by(ECE_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/ECE/<sem>/',methods=['GET'])
+def ece_sem_subjects(sem):
+    with app.app_context():
+        s=ECE_Subjects.query.filter_by(semister=sem).order_by(ECE_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/CSBS',methods=['GET'])    
+def csbs_subjects():
+    with app.app_context():
+        s=CSBS_Subjects.query.order_by(CSBS_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/CSBS/<sem>/',methods=['GET'])
+def csbs_sem_subjects(sem):
+    with app.app_context():
+        s=CSBS_Subjects.query.filter_by(semister=sem).order_by(CSBS_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/CS-AIML',methods=['GET'])    
+def cs_aiml_subjects():
+    with app.app_context():
+        s=CS_AIML_Subjects.query.order_by(CS_AIML_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/CS-AIML/<sem>/',methods=['GET'])
+def cs_aiml_sem_subjects(sem):
+    with app.app_context():
+        s=CS_AIML_Subjects.query.filter_by(semister=sem).order_by(CS_AIML_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/CS-DS',methods=['GET'])    
+def cs_ds_subjects():
+    with app.app_context():
+        s=CS_DS_Subjects.query.order_by(CS_DS_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/CS-DS/<sem>/',methods=['GET'])
+def cs_ds_sem_subjects(sem):
+    with app.app_context():
+        s=CS_DS_Subjects.query.filter_by(semister=sem).order_by(CS_DS_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/EIE',methods=['GET'])    
+def eie_subjects():
+    with app.app_context():
+        s=EIE_Subjects.query.order_by(EIE_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/EIE/<sem>/',methods=['GET'])
+def eie_sem_subjects(sem):
+    with app.app_context():
+        s=EIE_Subjects.query.filter_by(semister=sem).order_by(EIE_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/CSE',methods=['GET'])    
+def cse_subjects():
+    with app.app_context():
+        s=CSE_Subjects.query.order_by(CSE_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/CSE/<sem>/',methods=['GET'])
+def cse_sem_subjects(sem):
+    with app.app_context():
+        s=CSE_Subjects.query.filter_by(semister=sem).order_by(CSE_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/AE',methods=['GET'])    
+def ae_subjects():
+    with app.app_context():
+        s=AE_Subjects.query.order_by(AE_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/AE/<sem>/',methods=['GET'])
+def ae_sem_subjects(sem):
+    with app.app_context():
+        s=AE_Subjects.query.filter_by(semister=sem).order_by(AE_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/CS-CYS',methods=['GET'])    
+def cs_cys_subjects():
+    with app.app_context():
+        s=CS_CYS_Subjects.query.order_by(CS_CYS_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/CS-CYS/<sem>/',methods=['GET'])
+def cs_cys_sem_subjects(sem):
+    with app.app_context():
+        s=CS_CYS_Subjects.query.filter_by(semister=sem).order_by(CS_CYS_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/CS-IoT',methods=['GET'])    
+def cs_iot_subjects():
+    with app.app_context():
+        s=CS_IoT_Subjects.query.order_by(CS_IoT_Subjects.sno).all()
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+@app.route('/get/CS-IoT/<sem>/',methods=['GET'])
+def cs_iot_sem_subjects(sem):
+    with app.app_context():
+        s=CS_IoT_Subjects.query.filter_by(semister=sem).order_by(CS_IoT_Subjects.sno)
+        r=subjects_schema.dump(s)
+        return jsonify(r)
+    
+
+@app.route('/get/<rollno>/',methods=["GET"])
+def get_department(rollno):
+    with app.app_context():
+        s=Students.query.filter_by(rollno=rollno).first()
+        d=BtechDepartments.query.filter_by(name_of_the_course=s.department).first() 
+        return d.course_code
+    
+
+
+@app.route('/student/login',methods=["GET"])
+def student_login():
+    username=request.json["Rollno"]
+    password=request.json["Password"]
+    s=Students.query.filter_by(rollno=username).first()
+    if s:
+        if password==s.password:
+            return '2'
+        else:
+            return '1'
+    else:
+        return '0'
+    
+
+@app.route('/student/update',methods=["PUT"])
+def student_update_password():
+    username=request.json["Rollno"]
+    password=request.json["Password"]
+    s=Students.query.filter_by(rollno=username).first()
+    if s:
+        s.password=password
+        db.session.commit()
+        return 'PASSWORD CHANGED'
+    else:
+        return 'USER NOT FOUND'
+    
+
+@app.route('/student/complaint',methods=["POST"])
+def student_complaint():
+    # sno=Complaints.query.count()+1
+    rollno=request.json["rollno"]
+    department=request.json["department"]
+    body=request.json["body"]
+    row=Complaints(rollno,department,body)
+    db.session.add(row)
+    db.session.commit()
+    s=Complaints.query.all()
+    ss=complaints_schema.dump(s)
+    return jsonify(ss)
+
+
+@app.route('/student/complaint/<rollno>/',methods=["GET"])
+def student_complaint_rollno_get(rollno):
+    s=Complaints.query.filter_by(rollno=rollno).all()
+    ss=complaints_schema.dump(s)
+    return jsonify(ss)
+
+
+# @app.route('/student/complaint_id/<rollno>/',methods=["GET"])
+# def student_complaint_id_rollno_get(rollno):
+#     s=Complaints.query.filter_by(rollno=rollno).all()
+#     ss=complaints_schema.dump(s)
+#     return jsonify(ss)
+
+
+@app.route('/student/complaint/<rollno>/<id>/',methods=["DELETE"])
+def student_complaint_rollno_delete(rollno,id):
+    s=Complaints.query.filter_by(rollno=rollno).filter_by(id=id).first()
+    db.session.delete(s)
+    db.session.commit()
+    r=Complaints.query.filter_by(rollno=rollno)
+    ss=complaints_schema.dump(r)
+    return jsonify(ss)
+
+
+@app.route('/admin/complaints',methods=["GET"])
+def admin_complaints():
+    s=Complaints.query.all()
+    ss=complaints_schema.dump(s)
+    return jsonify(ss)

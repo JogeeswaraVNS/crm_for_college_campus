@@ -1,0 +1,14 @@
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: brown;
+}
+a{
+    text-decoration: none;
+}
+.cardstyle{
+   background-color: rgba(210, 122, 229, 0.3);
+}

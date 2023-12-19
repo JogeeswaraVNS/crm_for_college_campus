@@ -1,0 +1,111 @@
+19BS1MT02 Discrete Mathematics 3 0 0 3 3 1
+19BS1MT03 Introductory Topics in Statistics, Probability and Calculus 3 0 0 3 3 1
+19ES1CB01 Fundamentals of Computer Science 2 1 0 3 3 1
+19ES1EE03 Principles of Electrical Engineering 3 0 0 3 3 1
+19BS1PH03 Physics for Computing Science 3 0 0 3 3 1
+19ES2CB01 Fundamentals of Computer Science Laboratory 0 0 2 2 1 1
+19ES2EE03 Principles of Electrical Engineering Laboratory 0 0 2 2 1 1
+19BS2PH03 Physics for Computing Science Laboratory 0 0 2 2 1 1
+19HS2EN02 Business Communication and Value Science - I 1 0 2 3 2 1
+19BS1MT06 Linear Algebra 2 1 0 3 3 2
+19BS1MT07 Statistical Modeling 3 0 0 3 3 2
+19ES1CB02 Data Structures and Algorithms 2 1 0 3 3 2
+19ES1EC01 Principles of Electronics Engineering 3 0 0 3 3 2
+19HS1MG01 Fundamentals of Economics 3 0 0 3 3 2
+19BS2MT01 Statistical Modeling Laboratory 0 0 2 2 1 2
+19ES2CB02 Data Structures and Algorithms Laboratory 0 0 2 2 1 2
+19ES2EC01 Principles of Electronics Engineering Laboratory 0 0 2 2 1 2
+19HS2EN03 Business Communication and Value Science - II 1 0 2 3 2 2
+19MN6HS02 Environmental Science 2 0 0 2 0 2
+A19PC1CB01 Formal Language and Automata Theory 2 1 0 3 3 3
+A19PC1CB02 Computer Organization and Architecture 3 1 0 4 4 3
+A19PC1CB03 Object Oriented Programming 2 1 0 3 3 3
+A19PC1CB04 Computational Statistics 2 1 0 3 3 3
+A19PC1CB05 Software Engineering 2 1 0 3 3 3
+A19PC2CB01 Object Oriented Programming Laboratory 0 0 2 2 1 3
+A19PC2CB02 Computational Statistics Laboratory 0 0 2 2 1 3
+A19PC2CB03 Software Engineering Laboratory 0 0 2 2 1 3
+A19MN6HS04 Indian Constitution 2 0 0 2 0 3
+A19PC1CB06 Operating Systems 2 1 0 3 3 4
+A19PC1CB07 Database Management System Concepts 2 1 0 3 3 4
+A19PC1CB08 Software Design With UML 2 1 0 3 3 4
+A19HS1IE01 Introduction to Innovation, IP Management and Entrepreneurship 2 1 0 3 3 4
+A19ES1ME10 Operations Research 2 1 0 3 3 4
+A19PC2CB04 Operating Systems (Unix)Laboratory 0 0 2 2 1 4
+A19PC2CB05 Database Management System Concepts Laboratory 0 0 2 2 1 4
+A19PC2CB06 Software Design With UML Laboratory 0 0 2 2 1 4
+A19ES2ME10 Operations Research Laboratory 0 0 2 2 1 4
+A19HS2EN04 Business Communication and Value Science - III 1 0 2 3 2 4
+A19MN6HS05 Essence of Indian Traditional Knowledge 2 0 0 2 0 4
+19PC1CB09 Design and Analysis of Algorithms 2 1 0 3 3 5
+19PC1CB10 Computer Networks 2 1 0 3 3 5
+19HS1MG05 Fundamentals of Management 3 0 0 3 3 5
+19PC1CB11 Design Thinking 3 0 0 3 3 5
+PE-I Professional Elective - I 3 0 0 3 3 5
+19PE1CB01 Conversational Systems - - - - - 5
+19PE1CB02 Cloud, Microservices and Applications - - - - - 5
+19PE1CB03 Machine Learning - - - - - 5
+OE-I Open Elective - I 3 0 0 3 3 5
+19OE1CB01 Business Strategy - - - - - 5
+19OE1CB02 Scripting Languages - - - - - 5
+19OE1CB03 Mobile Application Development - - - - - 5
+PE-1 Professional Electives - I Laboratory 0 0 2 2 1 5
+19PE2CB01 Conversational Systems Laboratory - - - - - 5
+19PE2CB02 Cloud, Microservices and Applications Laboratory - - - - - 5
+19PE2CB03 Machine Learning Laboratory - - - - - 5
+19PC2CB07 Design and Analysis of Algorithms Laboratory 0 0 2 2 1 5
+19PC2CB08 Computer Networks Laboratory 0 0 2 2 1 5
+19PW4CB01 Internship 0 0 0 0 1 5
+19PC1CB12 Compiler Design 2 1 0 3 3 6
+19PC1CB13 Artificial Intelligence 2 1 0 3 3 6
+19PC1CB14 Information Security 2 1 0 3 3 6
+PE-II Professional Elective - II 3 0 0 3 3 6
+19PE1CB04 Modern Day Robotics and Its Industrial Applications - - - - - 6
+19PE1CB05 Modern Web Applications - - - - - 6
+19PE1CB06 Data Mining and Analytics - - - - - 6
+OE-II Open Elective - II 3 0 0 3 3 6
+19OE1CB04 Financial and Cost Accounting - - - - - 6
+19OE1CB05 Augmented Reality and Virtual Reality - - - - - 6
+19OE1CB06 Distributed Systems - - - - - 6
+PE-2 Professional Electives - II Laboratory 0 0 2 2 1 6
+19PE2CB04 Modern Day Robotics and Its Industrial Applications Laboratory - - - - - 6
+19PE2CB05 Modern Web Applications Laboratory - - - - - 6
+19PE2CB06 Data Mining and Analytics Laboratory - - - - - 6
+19PC2CB09 Compiler Design and Information Security Laboratory 0 0 2 2 1 6
+19PC2CB10 Artificial Intelligence Laboratory 0 0 2 2 1 6
+19HS2EN06 Business Communication and Value Science - IV 1 0 2 3 2 6
+19MN6HS03 Gender Sensitization 2 0 0 2 0 6
+19PC1CB15 Usability Design of Software Applications 2 1 0 3 3 7
+19HS1MG06 Financial Management 3 0 0 3 3 7
+PE-III Professional Elective - III 2 1 0 3 3 7
+19PE1CB07 Cognitive Science and Analytics - - - - - 7
+19PE1CB08 Introduction to IoT - - - - - 7
+19PE1CB09 Cryptology - - - - - 7
+PE-IV Professional Elective - IV 2 1 0 3 3 7
+19PE1CB10 Quantum Computation and Quantum Information - - - - - 7
+19PE1CB11 Advanced Social, Text and Media Analytics - - - - - 7
+19PE1CB12 Mobile Computing - - - - - 7
+OE-III Open Elective - III 3 0 0 3 3 7
+19OE1CB07 Human Resource Management - - - - - 7
+19OE1CB08 Blockchain Technologies - - - - - 7
+19OE1CB09 Advanced Operating Systems - - - - - 7
+PE-4 Professional Electives - IV Laboratory 0 0 2 2 1 7
+19PE2CB07 Quantum Computation and Quantum Information Laboratory - - - - - 7
+19PE2CB08 Advanced Social, Text and Media Analytics Laboratory - - - - - 7
+19PE2CB09 Mobile Computing Laboratory - - - - - 7
+19PC2CB11 Usability Design of Software Applications Laboratory 0 0 2 2 1 7
+19PW4CB02 Mini-Project* 0 0 4 4 2 7
+19PW4CB03 Major Project Phase - I 0 0 8 8 4 7
+PE-V Professional Elective - V 2 1 0 3 3 8
+19PE1CB13 Behavioural Economics - - - - - 8
+19PE1CB14 Computational Finance and Modeling - - - - - 8
+19PE1CB15 Psychology - - - - - 8
+PE-VI Professional Elective - VI 2 1 0 3 3 8
+19PE1CB16 Enterprise Systems - - - - - 8
+19PE1CB17 Advance Finance - - - - - 8
+19PE1CB18 Image Processing and Pattern Recognition - - - - - 8
+OE-IV Open Electivec - IV 3 0 0 3 3 8
+19OE1CB10 IT Project Management - - - - - 8
+19OE1CB11 Services Science and Service Operational Management - - - - - 8
+19OE1CB12 Marketing Research and Marketing Management - - - - - 8
+19PW4CB04 Major Project Phase - II 0 0 12 12 6 8

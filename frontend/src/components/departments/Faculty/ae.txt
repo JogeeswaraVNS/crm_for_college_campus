@@ -1,0 +1,17 @@
+1	Dr.T.Srinivasa Rao	Professor & HOD	 	06-11-2006	Ph.D.	Regular	srinivasarao_t@vnrvjiet.in	5685-150409-131541
+2	Dr.M.Venkata Ramana	Professor	 	14-08-2003	Ph.D.	Regular	venkataramana_m@vnrvjiet.in	5043-150408-125708
+3	Dr.Shaik Amjad	Professor	 	02-06-2014	Ph.D.	Regular	amjad_s@vnrvjiet.in	66150402-143755
+4	Dr.G.V.L.Prasad	Assistant Professor	 	22-05-2012	Ph.D.	Regular	prasad_gvl@vnrvjiet.in	90150407-143953
+5	Mr.T.Praveen Kumar	Assistant Professor	 	11-02-2013	M.E	Regular	praveenkumar_t@vnrvjiet.in	63150402-144531
+6	Mr.R.Ramu	Assistant Professor	 	01-07-2013	M.Tech	Regular	ramu_r@vnrvjiet.in	2015-150413-105826
+7	Mr.T.Raju	Assistant Professor	 	15-07-2013	M.Tech	Regular	raju_t@vnrvjiet.in	8341-150409-151449
+8	Mr.D.Suresh	Assistant Professor	 	18-03-2016	M.Tech	Regular	suresh_d@vnrvjiet.in	6617-160315-124141
+9	Mr.Venkata Ramarao Mutyala	Assistant Professor	 	07-01-2017	M.E	Regular	venkataramarao_m@vnrvjiet.in	2513-170103-100638
+10	Mr. MohamadAziz Athani	Assistant Professor	 	26-05-2017	M.Tech	Regular	aziz_a@vnrvjiet.in	0476-161026-142919
+11	Mr. M. Krishna	Assistant Professor	 	26-05-2017	M.E	Regular	krishna_m@vnrvjiet.in	7560-170520-172558
+12	Mr.BALAPPA B.Hadagali	Assistant Professor	 	17-01-2018	M.Tech	Regular	balappa_bh@vnrvjiet.in	1714-170523-151148
+13	Dr V.Rathinam	Assistant Professor	 	02-03-2018	Ph.D.	Regular	rathinam_v@vnrvjiet.in	6835-180208-222923
+14	Mr.Krishna Kumar T.S	Assistant Professor	 	20-12-2019	M.Tech	Regular	krishnakumar_ts@vnrvjiet.in	1015-191113-144449
+15	Chandrashekhar Banad	Assistant Professor	 	02-06-2022	M.Tech	Regular	chandrashekhar_b@vnrvjiiet.in	1716-220607-105604
+16	Vinay Kulkarni	Assistant Professor	 	03-06-2022	M.Tech	Regular	vinay_k@vnrvjiet.in	2596-1504-15105806
+17	Dr. Bachina Harish Babu	Assistant Professor	 	02-08-2022	Ph.D	Regular	harishbabu_b@vnrvjiet.in	1384-220708-130920

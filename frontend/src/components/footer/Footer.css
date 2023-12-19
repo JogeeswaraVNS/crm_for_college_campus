@@ -1,0 +1,10 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(119, 30, 30);
+}
+
+
+.address-title{
+    color: rgb(124, 124, 59);
+}

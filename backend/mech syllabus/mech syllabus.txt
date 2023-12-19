@@ -1,0 +1,97 @@
+19BS1MT01 Calculus for Engineers 3 1 0 4 4 1
+19BS1PH01 Applied Physics 3 0 0 3 3 1
+19ES1CS01 Programming through C 3 0 0 3 3 1
+19ES1EE02 Basic Electrical and Electronics Engineering 3 0 0 3 3 1
+19BS2PH01 Applied Physics Laboratory 0 0 2 2 1 1
+19ES2CS01 Programming through C Laboratory 0 0 2 2 1 1
+19ES2EE02 Basic Electrical and Electronics Engineering Laboratory 0 0 2 2 1 1
+19ES3ME01 Engineering Graphics 0 0 6 6 3 1
+19PW4ME01 Design Sensitization 0 0 2 2 1 1
+19BS1MT04 Linear Algebra and Advanced Calculus 3 0 0 3 3 2
+19BS1CH01 Engineering Chemistry 3 0 0 3 3 2
+19HS1EN01 English 3 0 0 3 3 2
+19ES1CS02 Data Structures through C 3 0 0 3 3 2
+19ES1ME01 Engineering Mechanics 3 0 0 3 3 2
+19BS2CH01 Engineering Chemistry Laboratory 0 0 2 2 1 2
+19HS2EN01 English Language Communication Skills Laboratory 0 0 2 2 1 2
+19ES2CS02 Data Structures through C Laboratory 0 0 2 2 1 2
+19ES2ME01 Workshop Practices 1 0 2 3 2 2
+A19BS1MT10 Partial Differential Equations and Numerical Methods 3 0 0 3 3 3
+A19PC1ME01 Metallurgy and Materials Engineering 3 0 0 3 3 3
+A19PC1ME02 Manufacturing Processes 3 0 0 3 3 3
+A19PC1ME03 Fluid Mechanics and Machinery 3 0 0 3 3 3
+A19PC1ME04 Thermodynamics 3 1 0 4 4 3
+A19PC2ME01 Metallurgy and Materials Engineering Laboratory 0 0 2 2 1 3
+A19PC2ME02 Manufacturing Processes Laboratory 0 0 3 3 1.5 3
+A19PC2ME03 Fluid Mechanics and Machinery Laboratory 0 0 3 3 1.5 3
+A19PC1ME05 Thermal Engineering 3 0 0 3 3 4
+A19PC1ME06 Kinematics of Machinery 3 1 0 4 4 4
+A19PC1ME07 Machine Tools and Metrology 3 0 0 3 3 4
+A19PC1ME08 Mechanics of Solids 3 0 0 3 3 4
+A19PC1ME09 Instrumentation and Control Systems 3 0 0 3 3 4
+A19PC2ME04 Thermal Engineering Laboratory 0 0 3 3 1.5 4
+A19PC2ME05 Machine Tools and Measurements Laboratory 0 0 3 3 1.5 4
+A19PC2ME06 Mechanics of Solids Laboratory 0 0 2 2 1 4
+A19MN6HS02 Environmental Science 2 0 0 2 0 4
+19PC1ME10 Automation and Robotics 3 0 0 3 3 5
+19PC1ME11 Dynamics of Machinery 3 0 0 3 3 5
+19PC1ME12 Turbomachinery 3 0 0 3 3 5
+19HS1MG02 Engineering Economics and Accountancy 3 0 0 3 3 5
+PE-I Professional Elective - I 3 0 0 3 3 5
+19PE1ME01 Non-Conventional Energy Source - - - - - 5
+19HS1MG04 Principles of Management and Organizational Behaviour - - - - - 5
+19PE1ME02 Advanced Strength of Materials - - - - - 5
+19PC1EE05 Control Systems - - - - - 5
+19PE1ME03 Enterprise Resource Planning - - - - - 5
+OE-I Open Elective - I 3 0 0 3 3 5
+19PC2ME07 Automation and Robotics Laboratory 0 0 2 2 1 5
+19PC2ME08 Dynamics of Machinery Laboratory 0 0 2 2 1 5
+19PW4ME02 Internship 0 0 2 2 1 5
+19MN6HS03 Gender Sensitization 2 0 0 2 0 5
+19PC1ME13 Heat Transfer 3 0 0 3 3 6
+19PC1ME14 CAD/CAM 3 0 0 3 3 6
+19PC1ME15 Design of Machine Elements 3 1 0 4 4 6
+PE-II Professional Elective - II 3 0 0 3 3 6
+19PE1ME04 Refrigeration and Air Conditioning - - - - - 6
+19PE1ME05 Operations Research - - - - - 6
+19PE1ME06 Finite Element Methods - - - - - 6
+19PE1ME07 Mechatronic Systems - - - - - 6
+19PE1ME08 Unconventional Machining Processes - - - - - 6
+OE-II Open Elective - II 3 0 0 3 3 6
+19PC2ME09 Heat Transfer Laboratory 0 0 2 2 1 6
+19PC2ME10 CAD/ CAM Laboratory 0 0 2 2 1 6
+19HS2EN05 Advanced English Communication Skills Laboratory 0 0 2 2 1 6
+19PW4ME03 Design Thinking 0 0 4 4 2 6
+19PC1ME16 Additive Manufacturing 3 0 0 3 3 7
+19PC1ME17 Industrial Engineering and Management 3 0 0 3 3 7
+PE-III Professional Elective - III 3 0 0 3 3 7
+19PE1ME09 Fluid Power Systems - - - - - 7
+19PE1ME10 Total Quality Management - - - - - 7
+19PE1ME11 Mechanical Vibrations - - - - - 7
+19PE1ME12 Mechanics of Composite Materials - - - - - 7
+19PE1ME13 Tool Design - - - - - 7
+PE-IV Professional Elective - IV 3 0 0 3 3 7
+19PE1ME14 Computational Fluid Dynamics - - - - - 7
+19PE1ME15 Optimization Techniques - - - - - 7
+19PE1ME16 Mechanical Behaviour of Engineering Materials - - - - - 7
+19PE1ME17 Microprocessors in Automation - - - - - 7
+19PE1ME18 Theory of Metal Cutting - - - - - 7
+OE-III Open Elective - III 3 0 0 3 3 7
+19PC2ME11 Additive Manufacturing Laboratory 0 0 2 2 1 7
+19PC2ME12 Mechanical Drawing Practice Laboratory 0 0 2 2 1 7
+19PW4ME04 Mini-Project 0 0 4 4 2 7
+19PW4ME05 Major Project Phase - I 0 0 8 8 4 7
+PE-V Professional Elective - V 3 0 0 3 3 8
+19PE1ME19 Gas Dynamics and Jet Propulsion - - - - - 8
+19PE1ME20 Design for Manufacturing and Assembly - - - - - 8
+19PE1ME21 Advances in CAD/CAM - - - - - 8
+19PE1ME22 Product Design and Process Planning - - - - - 8
+19PE1ME23 Metal Casting Technology - - - - - 8
+PE-VI Professional Elective - VI 3 0 0 3 3 8
+19PE1ME24 Power Plant Engineering - - - - - 8
+19PE1ME25 Plant Layout and Material handling systems - - - - - 8
+19PE1ME26 Advanced Machine Design - - - - - 8
+19PE1ME27 Flexible Manufacturing Systems - - - - - 8
+19PE1ME28 Computer Integrated Manufacturing - - - - - 8
+OE-IV Open Elective - IV 3 0 0 3 3 8
+19PW4ME06 Major Project Phase - II 0 0 12 12 6 8
